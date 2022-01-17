@@ -1,0 +1,5 @@
+-;Manual,Automatic
+5.2L 532BHP;Automatic
+4.2L 443BHP;Manual,Automatic
+3.6L 374BHP;Manual,Automatic
+2.0L 166BHP;Manual,Automatic

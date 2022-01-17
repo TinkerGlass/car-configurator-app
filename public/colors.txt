@@ -1,0 +1,5 @@
+#EC2713;Red
+#CDCDCD;Grey
+#000;Black
+#D69A5E;Brown
+-;-
